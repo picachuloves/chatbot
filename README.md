@@ -1,4 +1,4 @@
 # chatbot
 Console python chatbot<br /> 
-Создание модели - maim.py<br />
+Создание модели - main.py<br />
 Запуск бота - chatbot.py<br />
