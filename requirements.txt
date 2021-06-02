@@ -58,7 +58,7 @@ termcolor==1.1.0
 tflearn @ git+https://github.com/tflearn/tflearn.git@5c23566de6e614a36252a5828d107d001a0d0482
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==0.16.1
 win-inet-pton==1.1.0
 wincertstore==0.2
