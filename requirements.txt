@@ -24,7 +24,7 @@ mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
-numpy==1.18.5
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.1.0
 pandas @ file:///C:/ci/pandas_1592841747005/work
